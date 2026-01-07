@@ -1,10 +1,3 @@
-Here is the README.md file for your Java Selenium Loadable Component Pattern repository.
-
-This pattern is a native feature of Selenium that forces your tests to verify that a page is completely loaded before interacting with it, significantly reducing "flakiness."
-
-Copy this content for your README.md:
-Markdown
-
 # Java Selenium Loadable Component Pattern
 
 This repository demonstrates the implementation of the **LoadableComponent Pattern** in a Selenium Automation Framework. This pattern utilizes Selenium's native `LoadableComponent` class to standardize how pages are loaded and verified.
